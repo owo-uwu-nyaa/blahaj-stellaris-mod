@@ -1,0 +1,11 @@
+
+
+BLAHAJ = {
+       shonk = {
+             name = Shonk
+             plural = Shonks
+             home_planet = "walten"
+             home_system = "wuscheln"
+             name_list = "HUM1"
+       }
+}

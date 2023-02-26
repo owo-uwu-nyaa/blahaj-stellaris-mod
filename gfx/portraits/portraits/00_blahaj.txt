@@ -1,0 +1,3 @@
+ portraits = {
+    blahaj = { texturefile = "gfx/models/portraits/blahaj_test.dds" }
+ }
